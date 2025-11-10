@@ -8,8 +8,12 @@ SELECT
 FROM
     orders;
 ```
-*** Answer:***
+
+***Answer:***
+
 ![total_orders](https://user-images.githubusercontent.com/youruniqueid/Screenshot.png)
+
+***
 
 
 
