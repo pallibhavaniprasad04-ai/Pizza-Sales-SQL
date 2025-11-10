@@ -1,5 +1,7 @@
 # 🍕 Pizza Sales Data Analysis
 
+## 📌 Solution
+
 ### 1. Retrive the total number of orders placed?
 
 ```Sql
@@ -8,10 +10,11 @@ SELECT
 FROM
     orders;
 ```
-
-***Answer:***
+**Answer:**
 
 ![total_orders](https://user-images.githubusercontent.com/youruniqueid/Screenshot.png)
+
+The Total Number of Orders Placed 21350.
 
 ***
 
