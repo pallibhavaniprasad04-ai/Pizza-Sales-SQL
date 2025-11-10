@@ -12,7 +12,8 @@ FROM
 ```
 **Answer:**
 
-![total_orders](https://user-images.githubusercontent.com/youruniqueid/Screenshot.png)
+![Total Orders Result](https://user-images.githubusercontent.com/youruniqueid/Screenshot.png)
+
 
 The Total Number of Orders Placed 21350.
 
