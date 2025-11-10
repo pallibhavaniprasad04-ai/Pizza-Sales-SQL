@@ -12,7 +12,7 @@ FROM
 ```
 **Answer:**
 
-![Total Orders Result](https://user-images.githubusercontent.com/youruniqueid/Screenshot.png)
+<img width="134" alt="image" src=https://user-images.githubusercontent.com/youruniqueid/Screenshot.png>
 
 
 The Total Number of Orders Placed 21350.
