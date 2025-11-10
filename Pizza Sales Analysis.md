@@ -13,7 +13,8 @@ FROM
 **Answer:**
 
 <img width="134" alt="image" src="https://user-images.githubusercontent.com/youruniqueid/Screenshot.png">
-![image](https://user-images.githubusercontent.com/youruniqueid/Screenshot.png)
+<img width="134" alt="image" src="https://user-images.githubusercontent.com/1234567890/abcdef12-screenshot.png">
+
 
 
 The Total Number of Orders Placed 21350.
