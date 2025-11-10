@@ -8,6 +8,10 @@ SELECT
 FROM
     orders;
 ```
+*** Answer:***
+![total_orders](https://user-images.githubusercontent.com/youruniqueid/Screenshot.png)
+
+
 
 ### 2. Calculate the total revenue generated from pizza sales?
 
