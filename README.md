@@ -1,12 +1,10 @@
-<div align="center">
+
 
 
 
 ## 🍕 Pizza Sales Analysis 
 
- <div align="center">
-🍽️ Exploring Pizza Sales Trends with SQL
-<img width="450" alt="Pizza Dashboard" src="https://user-images.githubusercontent.com/youruniqueid/Screenshot.png"> </div>
+
 
 📊 Project Overview
 
