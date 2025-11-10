@@ -9,7 +9,7 @@ FROM
     orders;
 ```
 
-###2. Calculate the total revenue generated from pizza sales?
+### 2. Calculate the total revenue generated from pizza sales?
 
 ```Sql
 SELECT 
@@ -21,7 +21,7 @@ FROM
     pizzas ON pizzas.pizza_id = orders_details.pizza_id;
 ```
 
-###3. Identify the highest priced pizza?
+### 3. Identify the highest priced pizza?
 
 ````sql
 SELECT 
@@ -186,6 +186,6 @@ select name,revenue from
 rank() over(partition by category order by revenue desc) as rn from
 (select pizza_types.category ,pizza_types.name, sum(orders_details.quantity*pizzas.price) as revenue from pizza_types
 join pizzas on pizza_types.pizza_type_id = pizzas.pizza_type_id
-````
 join orders_details on orders_details.pizza_id = pizzas.pizza_id
 group by pizza_types.category ,pizza_types.name ) as a) as b where rn<=3;
+````
