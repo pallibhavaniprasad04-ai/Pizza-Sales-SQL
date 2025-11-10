@@ -11,8 +11,6 @@ FROM
     orders;
 ```
 
-**Answer:**
-https://github.com/pallibhavaniprasad04-ai/Pizza-Sales-SQL/blob/main/Screenshot%202025-11-10%20194354.png?raw=true
 
 
 ### 2. Calculate the total revenue generated from pizza sales?
